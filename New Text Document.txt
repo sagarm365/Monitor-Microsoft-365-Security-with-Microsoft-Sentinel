@@ -1,0 +1,8 @@
+Use Sentinel. Run Failed Login Attempt Query. Turn on Fusion Machine Learning
+Steps:
+1.	Go to Azure portal  Azure Sentinel
+2.	Select 	Azure Sentinel Workspace
+3.	Select Hunting  select Query ‘Failed login attempt’  Run Query
+4.	Go to Analytics section  select active rule  edit
+5.	Enable status of rule  Configure it
+6.	Review & Save
