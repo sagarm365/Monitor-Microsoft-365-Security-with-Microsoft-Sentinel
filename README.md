@@ -2,7 +2,7 @@
 Use Sentinel. Run Failed Login Attempt Query. Turn on Fusion Machine Learning.
 
 <h2>Description</h2>
-Lab consists of a Run Failed Login Attempt Query. Turn on Fusion Machine Learning using Microsoft Azure Sentinel (SIEM). We will monitor activity of Microsoft 365 Security with Microsoft Sentinel. A Log Analytics workspace is required to house all of the data that Microsoft Sentinel will be ingesting and using for its detections, analytics, and other features.
+Lab consists of a Run Failed Login Attempt Query & Turn on Fusion Machine Learning using Microsoft Azure Sentinel (SIEM). We will monitor activity of Microsoft 365 Security with Microsoft Sentinel. A Log Analytics workspace is required to house all of the data that Microsoft Sentinel will be ingesting and using for its detections, analytics, and other features.
 <br />
 
 
