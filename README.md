@@ -2,20 +2,21 @@
 Use Sentinel. Run Failed Login Attempt Query. Turn on Fusion Machine Learning.
 
 <h2>Description</h2>
-Lab consists of a create Password Lockout Policy by using Microsoft Azure AD.Smart lockout helps lock out bad actors that try to guess your users' passwords or use brute-force methods to get in. Smart lockout can recognize sign-ins that come from valid users and treat them differently than ones of attackers and other unknown sources. Attackers get locked out, while your users continue to access their accounts and be productive.	
+Lab consists of a Run Failed Login Attempt Query. Turn on Fusion Machine Learning using Microsoft Azure Sentinel (SIEM). We will monitor activity of Microsoft 365 Security with Microsoft Sentinel. A Log Analytics workspace is required to house all of the data that Microsoft Sentinel will be ingesting and using for its detections, analytics, and other features.
 <br />
 
 
 <h2>Environments Used </h2>
-- <b>Microsoft 365 Defender Portal </b>
+- <b>Microsoft Azure Sentinel Portal </b>
 
 <h2>Prerequisites</h2>
 
 -<b> Password Lockout Settings modified by anyone assigned the following roles:
- - Security Administrator
+ - Log Analytics Contributor
+ - Log Analytics Reader
  - Global Administrator
  </b>
-- <b> Licenses:  Azure AD Premium P1 or higher licenses </b>
+- <b> Licenses:  Azure AD trial or Premium P1 or higher licenses </b>
 
 <h2>Program walk-through:</h2>
 
